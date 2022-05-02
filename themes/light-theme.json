@@ -29,7 +29,7 @@
 		"list.inactiveSelectionBackground": "#b5c0d3",
 		"list.inactiveSelectionForeground": "#ffffff",
 		"list.warningForeground": "#487ed5",
-		"list.errorForeground": "#0029b1",
+		"list.errorForeground": "#d54848",
 		"quickInput.background": "#cad3e1",
 		"quickInput.foreground": "#747e8e",
 		"pickerGroup.foreground": "#6b7078"
