@@ -1,4 +1,4 @@
-# VSCode Sky Color Theme
+# Personal VSCode Theme
 
 ## Dreamy. Monochromatic. Blue Skies-Inspired.
 
@@ -6,8 +6,4 @@ A pastel VS code light color theme with muted, monochromatic colors. Includes bo
 
 ### Light Theme Screenshot
 
-![enter image description here](https://i.imgur.com/oQuyxdX.png)
-
-### Bright Theme Screenshot
-
-![enter image description here](https://i.imgur.com/7lphhka.png)
+![enter image description here](light.png)

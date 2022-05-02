@@ -1,18 +1,18 @@
 {
-    "name": "pastel-sky-theme",
-    "displayName": "Pastel Sky Theme",
-    "description": "a relaxing, monochromatic pastel blue theme reminiscent of clear skies for your vs code!",
+    "name": "personal-vscode-theme",
+    "displayName": "alexandretrichot Personal Theme",
+    "description": "a relaxing, monochromatic pastel blue theme reminiscent of clear skies for my vs code!",
     "version": "0.0.1",
-    "publisher": "Shira",
+    "publisher": "Alexandre Trichot",
     "author": {
-        "name": "shira"
+        "name": "alexandretrichot"
     },
     "engines": {
         "vscode": "^1.54.0"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/rghosh96/Sky-VSCode-Color-Theme.git"
+        "url": "https://github.com/alexandretrichot/personal-vscode-theme.git"
     },
     "galleryBanner": {
         "color": "#e3e8f2",
@@ -41,14 +41,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Pastel Sky Light Theme",
+                "label": "Personal Light Theme",
                 "uiTheme": "vs",
-                "path": "./themes/sky-light-color-theme.json"
-            },
-            {
-                "label": "Pastel Sky Bright Theme",
-                "uiTheme": "vs",
-                "path": "./themes/sky-bright-color-theme.json"
+                "path": "./themes/light-theme.json"
             }
         ]
     }
